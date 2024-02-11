@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **montakan.swr@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
