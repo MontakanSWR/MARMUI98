@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Montakan</h1>
-<h3 >I am interested in Front-end Developer</h3>
+<h3 >I am interested in Web Developer</h3>
 
 - 🌱 I’m currently learning **React**
 
